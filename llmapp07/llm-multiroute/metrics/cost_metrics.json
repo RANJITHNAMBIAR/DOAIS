@@ -1,0 +1,1001 @@
+{
+  "records": [
+    {
+      "timestamp": "2026-03-02T03:27:58.454661+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "input_tokens": 74,
+      "output_tokens": 33,
+      "total_tokens": 107
+    },
+    {
+      "timestamp": "2026-03-02T03:30:56.735414+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "input_tokens": 79,
+      "output_tokens": 40,
+      "total_tokens": 119
+    },
+    {
+      "timestamp": "2026-03-02T04:03:21.950208+00:00",
+      "task_type": "intent",
+      "model": "gemma3:12b",
+      "input_tokens": 139,
+      "output_tokens": 45,
+      "total_tokens": 184
+    },
+    {
+      "timestamp": "2026-03-02T04:03:44.632673+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "input_tokens": 83,
+      "output_tokens": 40,
+      "total_tokens": 123
+    },
+    {
+      "timestamp": "2026-03-02T04:04:04.393003+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "input_tokens": 82,
+      "output_tokens": 39,
+      "total_tokens": 121
+    },
+    {
+      "timestamp": "2026-03-02T04:04:25.489927+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "input_tokens": 81,
+      "output_tokens": 42,
+      "total_tokens": 123
+    },
+    {
+      "timestamp": "2026-07-14T07:51:48.366275+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "input_tokens": 124,
+      "output_tokens": 51,
+      "total_tokens": 175
+    },
+    {
+      "timestamp": "2026-07-14T08:00:08.531211+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "input_tokens": 124,
+      "output_tokens": 43,
+      "total_tokens": 167
+    },
+    {
+      "timestamp": "2026-07-14T08:00:25.337261+00:00",
+      "task_type": "summarize",
+      "model": "ministral-3:8b",
+      "input_tokens": 120,
+      "output_tokens": 103,
+      "total_tokens": 223
+    },
+    {
+      "timestamp": "2026-07-14T08:00:40.240102+00:00",
+      "task_type": "sentiment",
+      "model": "ministral-3:3b",
+      "input_tokens": 127,
+      "output_tokens": 60,
+      "total_tokens": 187
+    },
+    {
+      "timestamp": "2026-07-14T08:00:55.191975+00:00",
+      "task_type": "intent",
+      "model": "gemma3:12b",
+      "input_tokens": 182,
+      "output_tokens": 46,
+      "total_tokens": 228
+    },
+    {
+      "timestamp": "2026-09-26T06:16:06.210751+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 83,
+      "output_tokens": 36,
+      "total_tokens": 119
+    },
+    {
+      "timestamp": "2026-09-26T06:17:14.952948+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:14.958463+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.060696+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.067990+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.067990+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.076394+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.081309+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.086080+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.094328+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.099945+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.108792+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.112723+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.115238+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.124780+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.130675+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.133828+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.143647+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.147012+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.154620+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.156141+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.164583+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.167571+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.170577+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.174577+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.177577+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.186674+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.190675+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.192675+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:15.199961+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.015355+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.025690+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.032112+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.034758+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.042106+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.042614+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.050482+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.054947+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.058705+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.063825+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.069516+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.073369+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.078970+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.083516+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.087517+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.094422+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.100429+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.106263+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.110007+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.115837+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.115837+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.121421+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.128716+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.134074+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.134074+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.134074+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.142822+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.146256+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.151516+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.156368+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.161190+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:17:51.167049+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    {
+      "timestamp": "2026-09-26T06:20:05.210940+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 104,
+      "output_tokens": 41,
+      "total_tokens": 145
+    },
+    {
+      "timestamp": "2026-09-26T06:20:07.912180+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 111,
+      "output_tokens": 44,
+      "total_tokens": 155
+    },
+    {
+      "timestamp": "2026-09-26T06:20:10.623630+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 119,
+      "output_tokens": 37,
+      "total_tokens": 156
+    },
+    {
+      "timestamp": "2026-09-26T06:20:14.056866+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 104,
+      "output_tokens": 49,
+      "total_tokens": 153
+    },
+    {
+      "timestamp": "2026-09-26T06:20:16.764447+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 107,
+      "output_tokens": 39,
+      "total_tokens": 146
+    },
+    {
+      "timestamp": "2026-09-26T06:20:24.759973+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 400,
+      "output_tokens": 477,
+      "total_tokens": 877
+    },
+    {
+      "timestamp": "2026-09-26T06:20:28.745055+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 408,
+      "output_tokens": 200,
+      "total_tokens": 608
+    },
+    {
+      "timestamp": "2026-09-26T06:20:42.897837+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 397,
+      "output_tokens": 422,
+      "total_tokens": 819
+    },
+    {
+      "timestamp": "2026-09-26T06:20:52.408549+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 400,
+      "output_tokens": 534,
+      "total_tokens": 934
+    },
+    {
+      "timestamp": "2026-09-26T06:21:01.209157+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 406,
+      "output_tokens": 498,
+      "total_tokens": 904
+    },
+    {
+      "timestamp": "2026-09-26T06:21:05.059006+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 156,
+      "output_tokens": 94,
+      "total_tokens": 250
+    },
+    {
+      "timestamp": "2026-09-26T06:21:09.151043+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 148,
+      "output_tokens": 106,
+      "total_tokens": 254
+    },
+    {
+      "timestamp": "2026-09-26T06:21:12.912503+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 153,
+      "output_tokens": 88,
+      "total_tokens": 241
+    },
+    {
+      "timestamp": "2026-09-26T06:21:17.327306+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 168,
+      "output_tokens": 117,
+      "total_tokens": 285
+    },
+    {
+      "timestamp": "2026-09-26T06:21:22.347061+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 139,
+      "output_tokens": 120,
+      "total_tokens": 259
+    },
+    {
+      "timestamp": "2026-09-26T06:21:25.128244+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 440,
+      "output_tokens": 61,
+      "total_tokens": 501
+    },
+    {
+      "timestamp": "2026-09-26T06:21:28.377542+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 444,
+      "output_tokens": 187,
+      "total_tokens": 631
+    },
+    {
+      "timestamp": "2026-09-26T06:21:32.677560+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 454,
+      "output_tokens": 138,
+      "total_tokens": 592
+    },
+    {
+      "timestamp": "2026-09-26T06:21:35.906698+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 457,
+      "output_tokens": 142,
+      "total_tokens": 599
+    },
+    {
+      "timestamp": "2026-09-26T06:21:40.464982+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 447,
+      "output_tokens": 171,
+      "total_tokens": 618
+    },
+    {
+      "timestamp": "2026-09-26T06:21:45.204507+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 449,
+      "output_tokens": 244,
+      "total_tokens": 693
+    },
+    {
+      "timestamp": "2026-09-26T06:21:49.337159+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 457,
+      "output_tokens": 157,
+      "total_tokens": 614
+    },
+    {
+      "timestamp": "2026-09-26T06:21:53.548565+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 452,
+      "output_tokens": 119,
+      "total_tokens": 571
+    },
+    {
+      "timestamp": "2026-09-26T06:23:16.074762+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 104,
+      "output_tokens": 40,
+      "total_tokens": 144
+    },
+    {
+      "timestamp": "2026-09-26T06:23:20.979965+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 111,
+      "output_tokens": 52,
+      "total_tokens": 163
+    },
+    {
+      "timestamp": "2026-09-26T06:23:24.400914+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 119,
+      "output_tokens": 41,
+      "total_tokens": 160
+    },
+    {
+      "timestamp": "2026-09-26T06:23:27.323848+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 104,
+      "output_tokens": 49,
+      "total_tokens": 153
+    },
+    {
+      "timestamp": "2026-09-26T06:23:29.996454+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 107,
+      "output_tokens": 40,
+      "total_tokens": 147
+    },
+    {
+      "timestamp": "2026-09-26T06:23:34.768963+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 400,
+      "output_tokens": 103,
+      "total_tokens": 503
+    },
+    {
+      "timestamp": "2026-09-26T06:23:42.627992+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 408,
+      "output_tokens": 480,
+      "total_tokens": 888
+    },
+    {
+      "timestamp": "2026-09-26T06:23:49.378426+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 397,
+      "output_tokens": 451,
+      "total_tokens": 848
+    },
+    {
+      "timestamp": "2026-09-26T06:24:07.006162+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 400,
+      "output_tokens": 496,
+      "total_tokens": 896
+    },
+    {
+      "timestamp": "2026-09-26T06:24:11.153299+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 406,
+      "output_tokens": 197,
+      "total_tokens": 603
+    },
+    {
+      "timestamp": "2026-09-26T06:24:15.363365+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 156,
+      "output_tokens": 94,
+      "total_tokens": 250
+    },
+    {
+      "timestamp": "2026-09-26T06:24:19.677316+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 148,
+      "output_tokens": 113,
+      "total_tokens": 261
+    },
+    {
+      "timestamp": "2026-09-26T06:24:23.759797+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 153,
+      "output_tokens": 95,
+      "total_tokens": 248
+    },
+    {
+      "timestamp": "2026-09-26T06:24:27.813166+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 168,
+      "output_tokens": 113,
+      "total_tokens": 281
+    },
+    {
+      "timestamp": "2026-09-26T06:24:31.994845+00:00",
+      "task_type": "summarize",
+      "model": "mistral-large-3:675b",
+      "input_tokens": 139,
+      "output_tokens": 113,
+      "total_tokens": 252
+    },
+    {
+      "timestamp": "2026-09-26T06:24:34.996305+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 440,
+      "output_tokens": 91,
+      "total_tokens": 531
+    },
+    {
+      "timestamp": "2026-09-26T06:24:37.878896+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 444,
+      "output_tokens": 86,
+      "total_tokens": 530
+    },
+    {
+      "timestamp": "2026-09-26T06:24:41.299078+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 454,
+      "output_tokens": 125,
+      "total_tokens": 579
+    },
+    {
+      "timestamp": "2026-09-26T06:24:44.236087+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 457,
+      "output_tokens": 56,
+      "total_tokens": 513
+    },
+    {
+      "timestamp": "2026-09-26T06:24:48.536641+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 447,
+      "output_tokens": 70,
+      "total_tokens": 517
+    },
+    {
+      "timestamp": "2026-09-26T06:24:53.197108+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 449,
+      "output_tokens": 328,
+      "total_tokens": 777
+    },
+    {
+      "timestamp": "2026-09-26T06:24:56.542524+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 457,
+      "output_tokens": 76,
+      "total_tokens": 533
+    },
+    {
+      "timestamp": "2026-09-26T06:25:01.432852+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 452,
+      "output_tokens": 96,
+      "total_tokens": 548
+    },
+    {
+      "timestamp": "2026-09-26T06:26:19.858421+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 104,
+      "output_tokens": 54,
+      "total_tokens": 158
+    },
+    {
+      "timestamp": "2026-09-26T06:26:22.592238+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 111,
+      "output_tokens": 41,
+      "total_tokens": 152
+    },
+    {
+      "timestamp": "2026-09-26T06:26:25.487611+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 119,
+      "output_tokens": 36,
+      "total_tokens": 155
+    },
+    {
+      "timestamp": "2026-09-26T06:26:28.205281+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 104,
+      "output_tokens": 61,
+      "total_tokens": 165
+    },
+    {
+      "timestamp": "2026-09-26T06:26:31.020716+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 107,
+      "output_tokens": 37,
+      "total_tokens": 144
+    }
+  ],
+  "summary": {
+    "total_input_tokens": 15683,
+    "total_output_tokens": 8297,
+    "total_requests": 124
+  }
+}
